@@ -3,6 +3,8 @@ import pygame
 import pygame.camera
 import numpy
 from pygame.locals import *
+
+#ALL COMMENTS ARE RELATED TO iROBOT
 #import create
 #import time
 
